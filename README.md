@@ -1,13 +1,14 @@
-### Hey there stalker , have a walk through .
+![sahil gedam image banner ](https://i.imgur.com/dFhpueU.jpg "sahil")
 
 
-<h3 align="center">Excuse me:</h3>
-<p align="center">
-<a href="https://twitter.com/mysahil0369" target="blank"><img align="center" src="https://yt3.ggpht.com/OqDsWSyUBzPxCJhwWP1l7nCNIiR_Dw9tjas-8l45Oi7FJ20_3nUv72NPh_o-tFFG9qv8uYAf=s900-c-k-c0x00ffffff-no-rj" alt="mysahil0369" height="80" width="80" /></a>
-</p>
+## Hey there stalker , have a walk through .
 
 
-You Can explore and connect to me via here [Sahil Gedam](https://xahilg18.github.io)
+
+
+
+
+## You Can explore and connect to me via here [Sahil Gedam](https://xahilg18.github.io)
 
 
 
