@@ -15,8 +15,8 @@
 
 
 
-<p align="center"> (https://github-readme-stats.vercel.app/api?username=3gsahil&count_private=true&show_icons=true)
-</a> </p>
+![](https://github-readme-stats.vercel.app/api?username=3gsahil&count_private=true&show_icons=true)
+
 
 
 
