@@ -1,8 +1,11 @@
 ![sahil gedam image banner ](https://i.imgur.com/dFhpueU.jpg "sahil")
 
-# Hey !
+# SAHIL GEDAM 👋
 
-## Hey there stalker , have a walk through .
+## Hello Buddy!! My name is Sahil Gedam , I am an It student pursuing my bachelors degree.
+Mainly focused on Linux , Android and Cybersecurity , but i also love to play with tech and internet .
+
+⚡ Check out my website: https://sahilg.xyz ⚡ 
 
 
 
