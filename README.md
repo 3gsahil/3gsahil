@@ -2,7 +2,7 @@
 
 # SAHIL GEDAM 👋
 
-## Konichiwaa !! My name is Sahil Gedam . I am dancing with computers since 2020 .
+## Konichiwaa !! My name is Sahil . I am dancing with computers since 2020 .
 I am Mainly focused on Linux , Android and Cybersecurity , but i also love to play with tech and internet .
 
 ⚡ Check out my website: https://3gsahil.github.io ⚡ 
