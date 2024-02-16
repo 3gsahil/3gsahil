@@ -2,10 +2,10 @@
 
 # SAHIL GEDAM 👋
 
-## Hello Buddy!! My name is Sahil Gedam , I am an It student pursuing my bachelors degree.
-Mainly focused on Linux , Android and Cybersecurity , but i also love to play with tech and internet .
+## Konichiwaa !! My name is Sahil Gedam . I am dancing with computers since 2020 .
+I am Mainly focused on Linux , Android and Cybersecurity , but i also love to play with tech and internet .
 
-⚡ Check out my website: https://sahilg.xyz ⚡ 
+⚡ Check out my website: https://3gsahil.github.io ⚡ 
 
 
 
