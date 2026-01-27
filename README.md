@@ -1,4 +1,4 @@
-![sahil gedam image banner ](https://www.linkedin.com/in/3gsahil/overlay/background-image/ "sahil")
+![sahil gedam image banner ](https://www.linkedin.com/in/3gsahil/overlay/background-image/"sahil")
 
 # SAHIL GEDAM 👋
 
