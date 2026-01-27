@@ -1,4 +1,4 @@
-![sahil gedam image banner ](https://www.linkedin.com/in/3gsahil/overlay/background-image/"sahil")
+![sahil gedam image banner ](https://media.licdn.com/dms/image/v2/D4D16AQFTrU5cCT2M-Q/profile-displaybackgroundimage-shrink_350_1400/B4DZv.rYsxKoAY-/0/1769504352711?e=1770854400&v=beta&t=sYkjp5nMKCGazz_lDSHFePaGDIVhs_NPPu2oM9QpG80 "3gsahil")
 
 # SAHIL GEDAM 👋
 
